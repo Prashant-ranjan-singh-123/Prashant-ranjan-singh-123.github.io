@@ -41,9 +41,16 @@
       "image": "https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Food-Mania/main/readme_images/feature_graphic.png",
       "url": "https://github.com/Prashant-ranjan-singh-123/Food-Mania"
     },
-
     {
       "id": 6,
+      "name": "Doctor On Home",
+      "description": "This app, built with care, connects you to top-notch doctors at your fingertips. Skip the waiting rooms and experience healthcare on-demand. Let Heal on Call be your pocket-sized clinic, available whenever you need it.",
+      "date": "2023-09-01",
+      "image": "https://raw.githubusercontent.com/Prashant-ranjan-singh-123/doctor-on-home/master/readme_image/preview.png",
+      "url": "https://play.google.com/store/apps/details?id=com.doctor.home"
+    },
+    {
+      "id": 7,
       "name": "Mathmatica Mind",
       "description": "Mathmaica Mind learning arithmetic fun and challenging! Choose your difficulty and test your skills in a gamified experience, and start the game.",
       "date": "2023-09-01",
@@ -51,12 +58,52 @@
       "url": "https://play.google.com/store/apps/details?id=com.prashant.mathmatica.mind.mathmatics_mind"
     },
     {
-      "id": 7,
-      "name": "Doctor On Home",
-      "description": "This app, built with care, connects you to top-notch doctors at your fingertips. Skip the waiting rooms and experience healthcare on-demand. Let Heal on Call be your pocket-sized clinic, available whenever you need it.",
+      "id": 8,
+      "name": "Big Drum",
+      "description": "Big Drum is a project that displays real-time machine data such as temperature, consumption count, and gas flow after login. All data is fetched from APIs, and only authorized users (company members) can access the app to view the machine’s data in graph form. The app is available on both the Play Store and App Store.",
       "date": "2023-09-01",
-      "image": "https://raw.githubusercontent.com/Prashant-ranjan-singh-123/doctor-on-home/master/readme_image/preview.png",
-      "url": "https://play.google.com/store/apps/details?id=com.doctor.home"
+      "image": "https://raw.githubusercontent.com/Prashant-ranjan-singh-123/PrashantSkillscape/refs/heads/main/asset/image/project_image/feature_graphic/big_drum.png",
+      "url": "https://play.google.com/store/apps/details?id=com.bigdrum_app"
+    },
+    {
+      "id": 9,
+      "name": "GlassView QD",
+      "description": "GlassView Labs has developed a proprietary, high-frequency trading platform, QuickDraw TM, to deliver ad placements on top-tier sites & articles covering trending topics before they hit critical mass; leading to prominent brand positioning & superior ROI across the board.",
+      "date": "2023-09-01",
+      "image": "https://raw.githubusercontent.com/Prashant-ranjan-singh-123/PrashantSkillscape/refs/heads/main/asset/image/project_image/feature_graphic/glassview.png",
+      "url": "https://apps.apple.com/in/app/glassview-qd/id6443454711"
+    },
+    {
+      "id": 10,
+      "name": "Insugo Digi",
+      "description": "Insugo Digi is a Digital Wallet for storing policies and documents, No more running around. Manage all your policies/documents from one place. Get service and support for the entire lifetime of your policy. Complete guidance to claim policy. Notification on expiry of policies/document",
+      "date": "2023-09-01",
+      "image": "https://raw.githubusercontent.com/Prashant-ranjan-singh-123/PrashantSkillscape/refs/heads/main/asset/image/project_image/feature_graphic/Insugo_digi.png",
+      "url": "https://apps.apple.com/in/app/insugo-digi/id6455429167"
+    },
+    {
+      "id": 11,
+      "name": "LPG Association",
+      "description": "The LPG Association app is a versatile platform for agency members, offering features like secure login, a gallery for sharing multimedia, a knowledge base, and real-time chat. It promotes engagement, communication, and collaboration within the association, enhancing member involvement and supporting their professional growth and success.",
+      "date": "2023-09-01",
+      "image": "https://raw.githubusercontent.com/Prashant-ranjan-singh-123/PrashantSkillscape/refs/heads/main/asset/image/project_image/feature_graphic/lpg_association.png",
+      "url": "https://play.google.com/store/apps/details?id=com.tlda.lpgassociation"
+    },
+    {
+      "id": 12,
+      "name": "Direction",
+      "description": "\"Direction\" is a project designed to facilitate seamless communication between individuals and spiritual gurus, allowing users to seek guidance and receive personalized predictions about their future.",
+      "date": "2023-09-01",
+      "image": "https://raw.githubusercontent.com/Prashant-ranjan-singh-123/PrashantSkillscape/refs/heads/main/asset/image/project_image/feature_graphic/direction.png",
+      "url": "https://play.google.com/store/apps/details?id=com.project.direction"
+    },
+    {
+      "id": 13,
+      "name": "Portfolio",
+      "description": "PrashantSkillscape: My professional journey, beautifully presented. This Flutter-built portfolio app showcases my skills, experience, and achievements with style. Built with Material Design 3.",
+      "date": "2023-09-01",
+      "image": "https://raw.githubusercontent.com/Prashant-ranjan-singh-123/PrashantSkillscape/refs/heads/main/asset/image/project_image/feature_graphic/prashant_skillscape.png",
+      "url": "https://play.google.com/store/apps/details?id=com.prashant.project.portfolio"
     }
   ]
 }
